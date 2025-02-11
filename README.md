@@ -2,6 +2,28 @@
 <a href = "mailto:matheus.rosalobato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-lobato-50835834b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
 <a><img src="https://komarev.com/ghpvc/?username=MatheusGazzinelli&style=flat"></a>
+
+<div>
+  <sup>
+    Currently Studying at 
+    <strong>
+     Cotemig 
+    </strong>
+  </sup>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **MatheusGazzinelli/MatheusGazzinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
